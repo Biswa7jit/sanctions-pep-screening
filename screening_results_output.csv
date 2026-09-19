@@ -1,0 +1,31 @@
+customer_id,customer_name,date_of_birth,country,name_token_1,name_token_2,exact_name_match_count,alias_match_count,partial_token_match_count,dob_or_country_corroboration_count,matched_names_exact_or_alias,matched_programs_exact_or_alias,matched_names_partial,disposition
+C001,James Whitfield,1990-04-11,US,James,Whitfield,0,0,0,0,,,,CLEAR
+C002,Maria Lopez,1985-07-22,US,Maria,Lopez,0,0,0,0,,,,CLEAR
+C003,Wei Chen,1992-11-03,US,Wei,Chen,0,0,0,0,,,,CLEAR
+C004,Sarah Johnson,1988-01-29,US,Sarah,Johnson,0,0,0,0,,,,CLEAR
+C005,David Okafor,1979-03-15,US,David,Okafor,0,0,0,0,,,,CLEAR
+C006,Priya Sharma,1995-08-08,US,Priya,Sharma,0,0,0,0,,,,CLEAR
+C007,Thomas Nguyen,1983-12-20,US,Thomas,Nguyen,0,0,0,0,,,,CLEAR
+C008,Emily Carter,1991-06-17,US,Emily,Carter,0,0,0,0,,,,CLEAR
+C009,Luca Romano,1987-02-09,US,Luca,Romano,0,0,0,0,,,,CLEAR
+C010,Hannah Kim,1993-10-05,US,Hannah,Kim,0,0,0,0,,,,CLEAR
+C011,Michael Brooks,1980-05-27,US,Michael,Brooks,0,0,0,0,,,,CLEAR
+C012,Fatima Noor,1996-09-30,US,Fatima,Noor,0,0,0,0,,,,CLEAR
+C013,Dmitri Volkov,1990-01-01,US,Dmitri,Volkov,1,0,1,0,Dmitri Volkov,EU Sanctions List,Dmitri Volkov,CONFIRMED NAME MATCH - escalate for identity verification
+C014,Grace Ito,1985-05-05,US,Grace,Ito,1,0,1,0,Grace Ito,PEP - Foreign Official,Grace Ito,CONFIRMED NAME MATCH - escalate for identity verification
+C015,Farid Al-Nassar,1968-03-12,SY,Farid,Al-Nassar,1,0,1,2,Farid Al-Nassar,OFAC SDN,Farid Al-Nassar,CONFIRMED NAME MATCH - escalate for identity verification
+C016,Elena Petrova,1979-09-08,BY,Elena,Petrova,0,1,1,0,Yelena Petrova,EU Sanctions List,Yelena Petrova,ALIAS MATCH - escalate for identity verification
+C017,Consolidated Metal Company,,RU,Consolidated,Metal Company,0,1,0,0,Consolidated Metals JSC,OFAC SDN,,ALIAS MATCH - escalate for identity verification
+C018,Hassan Al Rashid,1971-01-19,IQ,Hassan,Al Rashid,0,1,0,0,Hassan Al-Rashid,UK OFSI,,ALIAS MATCH - escalate for identity verification
+C019,Boris Kuznetzov,1969-07-25,RU,Boris,Kuznetzov,0,1,0,0,Boris Kuznetsov,EU Sanctions List,,ALIAS MATCH - escalate for identity verification
+C020,Khalid Mansour,1977-10-11,SD,Khalid,Mansour,0,1,1,0,Khalid Ibrahim Mansour,UN Consolidated List,Khalid Ibrahim Mansour,ALIAS MATCH - escalate for identity verification
+C021,Carlos Mendez,1964-08-05,MX,Carlos,Mendez,0,1,1,0,Carlos Mendez Vidal,PEP - Foreign Official,Carlos Mendez Vidal,ALIAS MATCH - escalate for identity verification
+C022,Aisha Bello,1970-12-01,NG,Aisha,Bello,0,1,1,0,Aisha Bello Suleiman,PEP - Foreign Official,Aisha Bello Suleiman,ALIAS MATCH - escalate for identity verification
+C023,Kwame Owusu,1963-09-14,GH,Kwame,Owusu,0,1,1,0,Kwame Owusu Ansah,PEP - Domestic,Kwame Owusu Ansah,ALIAS MATCH - escalate for identity verification
+C024,Rebecca Adams,1994-03-02,US,Rebecca,Adams,0,0,0,0,,,,CLEAR
+C025,Daniel Foster,1989-07-19,US,Daniel,Foster,0,0,0,0,,,,CLEAR
+C026,Olivia Martinez,1997-02-25,US,Olivia,Martinez,0,0,0,0,,,,CLEAR
+C027,Ahmed Hassan,1982-04-06,US,Ahmed,Hassan,0,0,0,0,,,,CLEAR
+C028,Grace Chen,1991-12-12,US,Grace,Chen,0,0,0,0,,,,CLEAR
+C029,Robert Hayes,1975-10-30,US,Robert,Hayes,0,0,0,0,,,,CLEAR
+C030,Nadia Petrov,1986-06-14,US,Nadia,Petrov,0,0,0,0,,,,CLEAR

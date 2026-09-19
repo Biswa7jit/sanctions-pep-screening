@@ -1,0 +1,31 @@
+customer_id,customer_name,date_of_birth,country,account_type,onboarding_date
+C001,James Whitfield,1990-04-11,US,checking,2023-01-10
+C002,Maria Lopez,1985-07-22,US,savings,2022-05-14
+C003,Wei Chen,1992-11-03,US,checking,2024-02-01
+C004,Sarah Johnson,1988-01-29,US,business,2021-09-19
+C005,David Okafor,1979-03-15,US,checking,2020-06-30
+C006,Priya Sharma,1995-08-08,US,savings,2023-11-02
+C007,Thomas Nguyen,1983-12-20,US,checking,2019-04-25
+C008,Emily Carter,1991-06-17,US,checking,2022-08-08
+C009,Luca Romano,1987-02-09,US,business,2020-12-15
+C010,Hannah Kim,1993-10-05,US,savings,2024-05-20
+C011,Michael Brooks,1980-05-27,US,checking,2018-03-11
+C012,Fatima Noor,1996-09-30,US,checking,2023-07-04
+C013,Dmitri Volkov,1990-01-01,US,checking,2024-01-15
+C014,Grace Ito,1985-05-05,US,savings,2023-03-22
+C015,Farid Al-Nassar,1968-03-12,SY,checking,2024-06-01
+C016,Elena Petrova,1979-09-08,BY,checking,2024-04-18
+C017,Consolidated Metal Company,,RU,business,2023-12-05
+C018,Hassan Al Rashid,1971-01-19,IQ,checking,2024-02-14
+C019,Boris Kuznetzov,1969-07-25,RU,checking,2024-03-30
+C020,Khalid Mansour,1977-10-11,SD,checking,2024-01-09
+C021,Carlos Mendez,1964-08-05,MX,business,2022-10-01
+C022,Aisha Bello,1970-12-01,NG,checking,2023-05-17
+C023,Kwame Owusu,1963-09-14,GH,business,2021-11-08
+C024,Rebecca Adams,1994-03-02,US,checking,2023-09-09
+C025,Daniel Foster,1989-07-19,US,savings,2022-01-27
+C026,Olivia Martinez,1997-02-25,US,checking,2024-07-13
+C027,Ahmed Hassan,1982-04-06,US,checking,2020-08-22
+C028,Grace Chen,1991-12-12,US,checking,2023-02-28
+C029,Robert Hayes,1975-10-30,US,business,2019-06-05
+C030,Nadia Petrov,1986-06-14,US,checking,2024-03-11

@@ -1,0 +1,26 @@
+entity_id,primary_name,aliases,entity_type,country,date_of_birth,list_program,risk_category,source_note
+S001,Farid Al-Nassar,Farid Al Nassar; F. Al-Nassar,Person,SY,1968-03-12,OFAC SDN,Sanctioned,Asset freeze - designated entity network
+S002,Dmitri Volkov,Dmitry Volkov; D. Volkov,Person,RU,1975-11-02,EU Sanctions List,Sanctioned,Travel ban and asset freeze
+S003,Consolidated Metals JSC,ConMetals JSC; Consolidated Metal Company,Entity,RU,,OFAC SDN,Sanctioned,Sectoral sanctions - metals trade
+S004,Amara Diallo,Amara Diallo-Toure,Person,ML,1982-06-30,UN Consolidated List,Sanctioned,Arms embargo violation
+S005,Silverline Trading FZE,Silverline Trading; SL Trading FZE,Entity,AE,,OFAC SDN,Sanctioned,Front company - sanctions evasion
+S006,Hassan Al-Rashid,Hassan Al Rashid; H.A. Rashid,Person,IQ,1971-01-19,UK OFSI,Sanctioned,Asset freeze
+S007,Yelena Petrova,Elena Petrova; Y. Petrova,Person,BY,1979-09-08,EU Sanctions List,Sanctioned,Support for repression
+S008,Global Trading Co,Global Trading Company Ltd,Entity,HK,,OFAC SDN,Sanctioned,Proliferation financing network
+S009,Nasser Al-Khalidi,Nasser Khalidi,Person,SY,1965-04-22,UN Consolidated List,Sanctioned,Regime-affiliated financier
+S010,Offshore Holdings LLC,Offshore Holdings; OH Holdings LLC,Entity,AE,,OFAC SDN,Sanctioned,Shell company - beneficial ownership concealment
+P011,Grace Ito,,Person,JP,1958-02-14,PEP - Foreign Official,PEP,Former deputy minister of finance
+P012,Carlos Mendez Vidal,Carlos Mendez,Person,MX,1964-08-05,PEP - Foreign Official,PEP,Sitting state governor
+P013,Aisha Bello Suleiman,Aisha Bello,Person,NG,1970-12-01,PEP - Foreign Official,PEP,Central bank board member
+P014,Viktor Horvat,V. Horvat,Person,HR,1961-05-17,PEP - Foreign Official,PEP,Former ambassador
+P015,Linh Tran Thi,Tran Thi Linh,Person,VN,1973-03-09,PEP - Domestic,PEP,State-owned enterprise chairperson
+S016,Boris Kuznetsov,B. Kuznetsov; Boris Kuznetzov,Person,RU,1969-07-25,EU Sanctions List,Sanctioned,Oligarch network - asset freeze
+S017,Meridian Shipping Group,Meridian Shipping; MSG Ltd,Entity,PA,,OFAC SDN,Sanctioned,Sanctions evasion - shipping
+S018,Khalid Ibrahim Mansour,K.I. Mansour; Khalid Mansour,Person,SD,1977-10-11,UN Consolidated List,Sanctioned,Asset freeze - conflict financing
+S019,Northbridge Capital Partners,Northbridge Capital,Entity,CY,,OFAC SDN,Sanctioned,Sanctions evasion - investment vehicle
+S020,Anatoly Sokolov,A. Sokolov,Person,RU,1966-02-28,UK OFSI,Sanctioned,Asset freeze
+P021,Rosa Fernandez Castillo,Rosa Fernandez,Person,AR,1959-11-23,PEP - Foreign Official,PEP,Former finance minister
+P022,Kwame Owusu Ansah,Kwame Owusu,Person,GH,1963-09-14,PEP - Domestic,PEP,Regional governor
+S023,Petrov Energy Holdings,Petrov Energy,Entity,RU,,EU Sanctions List,Sanctioned,Sectoral sanctions - energy
+S024,Faisal Al-Otaibi,Faisal Al Otaibi; F. Otaibi,Person,YE,1974-06-19,UN Consolidated List,Sanctioned,Arms trafficking network
+S025,Everline Trading DMCC,Everline Trading,Entity,AE,,OFAC SDN,Sanctioned,Gold trade sanctions evasion
