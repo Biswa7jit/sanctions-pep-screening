@@ -146,8 +146,6 @@ than claiming formula-only Excel can fully replace one.
 
 ## About
 
-Built by [Your Name], CAMS-certified compliance analyst, as a
+Built by Biswajit Das, CAMS-certified compliance analyst, as a
 portfolio piece demonstrating sanctions/PEP screening logic without
-a coding dependency. See also: [link to SQL AML project], [link to
-Excel AML transaction monitoring project], and [link to Medium AML
-article series].
+a coding dependency.
