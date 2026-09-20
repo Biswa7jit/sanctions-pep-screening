@@ -9,11 +9,6 @@ and OFAC's SDN list: an entity record with a primary name, known
 aliases, entity type, country, date of birth, and the list/program
 that designated it.
 
-This is the third project in a small portfolio series (alongside a
-SQL-based and a separate Excel-based AML transaction monitoring
-project) — each demonstrating the same category of compliance
-analytical thinking through a different toolset.
-
 ## ⚠️ About the data — read this first
 
 The `Sanctions_PEP_List` file is a **small, entirely fictional
