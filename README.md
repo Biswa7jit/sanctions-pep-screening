@@ -107,7 +107,7 @@ Running the workflow against the 30 synthetic customers correctly
 identifies all 11 planted match scenarios and returns `CLEAR` for
 all 19 clean customers — zero false positives, zero missed hits.
 
-![Screening Results](screenshots/screening_results.png)
+![Screening Results](screening_results.png)
 
 ## A documented limitation
 
